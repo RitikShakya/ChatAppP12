@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/91965/AndroidStudioProjects/ChatApp9/app/src/main/res/drawable/ic_launcher_background.xml" value="0.121" />
+        <entry key="..\:/Users/91965/AndroidStudioProjects/ChatApp9/app/src/main/res/layout/activity_forgot_password.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/91965/AndroidStudioProjects/ChatApp9/app/src/main/res/layout/activity_login_page.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/91965/AndroidStudioProjects/ChatApp9/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/91965/AndroidStudioProjects/ChatApp9/app/src/main/res/layout/activity_my_chat.xml" value="0.1" />
+        <entry key="..\:/Users/91965/AndroidStudioProjects/ChatApp9/app/src/main/res/layout/activity_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91965/AndroidStudioProjects/ChatApp9/app/src/main/res/layout/activity_sign_up_page.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/91965/AndroidStudioProjects/ChatApp9/app/src/main/res/layout/activity_splash_screen.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/91965/AndroidStudioProjects/ChatApp9/app/src/main/res/layout/chat_card.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/91965/AndroidStudioProjects/ChatApp9/app/src/main/res/layout/chat_card_recieve.xml" value="0.11145833333333334" />
+        <entry key="..\:/Users/91965/AndroidStudioProjects/ChatApp9/app/src/main/res/layout/chat_card_send.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/91965/AndroidStudioProjects/ChatApp9/app/src/main/res/layout/main2.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/91965/AndroidStudioProjects/ChatApp9/app/src/main/res/layout/user_card.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/91965/AndroidStudioProjects/ChatApp9/app/src/main/res/menu/menu.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
